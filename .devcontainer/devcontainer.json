@@ -1,0 +1,15 @@
+{
+    "name": "DenoRemote",
+    "build": {
+        "dockerfile": "Containerfile"
+    },
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "Gruntfuggly.todo-tree",
+                "ms-vsliveshare.vsliveshare",
+                "denoland.vscode-deno"
+            ]
+        }
+    }
+}
